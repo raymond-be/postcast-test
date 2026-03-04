@@ -1,5 +1,5 @@
 name: Generate Podcast Feeds
-on: [push]branch_protection_rule: 
+on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
